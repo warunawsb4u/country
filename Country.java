@@ -1,9 +1,7 @@
-class Country{
+class Country {
 
-public static void main(String args[]){
-
-System.out.print("My country is Srilanka");
-
-}
-
+  public static void main(String[] args) {
+    
+    System.out.println("Srilanka");
+  }
 }
